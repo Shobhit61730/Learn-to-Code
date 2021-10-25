@@ -12,7 +12,7 @@
 🏷️ Automate some boring stuff using your favourite programming language. 
 
 ## How to contribute?
-- Add your name to the `CONTRIBUTORS.md` file.
+
 - Create the folder of your preferred language if not present and add your code within a folder or as a file.
 
 
