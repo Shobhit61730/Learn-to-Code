@@ -8,7 +8,7 @@
 <br>
 
 
-# Automate with code 📃
+# Learn-to-Code 📃
 🏷️ Automate some boring stuff using your favourite programming language. 
 
 ## How to contribute?
@@ -80,7 +80,7 @@ GitHub will alert you that you can merge the two branches because there is no co
 
 This project is licensed under the MIT License.
 
-Copyright (c) 2021 GargiGuptagd
+Copyright (c) Shobhit61730
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
