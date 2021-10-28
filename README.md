@@ -9,7 +9,7 @@
 
 
 # Learn-to-Code 📃
-🏷️ Automate some boring stuff using your favourite programming language. 
+🏷️ Contribute with your favourite languages and let's see your project.
 
 ## How to contribute?
 
