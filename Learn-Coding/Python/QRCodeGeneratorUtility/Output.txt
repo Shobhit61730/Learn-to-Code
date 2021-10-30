@@ -1,0 +1,1 @@
+Decoded text: HacktoberFest is an amazing way to learning about open-source.
