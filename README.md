@@ -1,4 +1,4 @@
-<h1 align="center">Hacktoberfest2021 <br></h1>
+<h1 align="center">Hacktoberfest2022 <br></h1>
 
 
 <img src="https://i.ibb.co/cgNjFRR/hacktober.png" width="100%">
