@@ -1,7 +1,7 @@
 <h1 align="center">Hacktoberfest2022 <br></h1>
 
 
-<img src="https://i.ibb.co/cgNjFRR/hacktober.png" width="100%">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ds97LCK---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ymlmr15l83rrjq8natft.jpg" width="100%">
 
 <br>
 
