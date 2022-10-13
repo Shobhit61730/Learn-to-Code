@@ -6,8 +6,8 @@ In web applications, several times we encounter the scenerio where there exist l
 
 Below are some HLDs diagram:
 
-![shortern_long_url](https://user-images.githubusercontent.com/47682663/195675824-7b36c22c-afad-4c25-84a7-fc8a4da2b93b.png)
+![long_to_short_url](https://user-images.githubusercontent.com/47682663/195678059-4f5e0279-8811-43fe-9eb1-6850a5127f8c.png)
 
 <br>
 
-![get_short_url](https://user-images.githubusercontent.com/47682663/195675927-abae98ef-dc8d-4586-bfaa-23d07fe16790.png)
+![short_to_long_url](https://user-images.githubusercontent.com/47682663/195678081-0decf001-3ec0-44c2-a7a4-f599dd13c133.png)
